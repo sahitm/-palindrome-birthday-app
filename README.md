@@ -7,7 +7,7 @@ A Palindrome Birthday! checking App built using HTML, CSS & VanillaJS
 
 ## Demo
 
-[Live view](https://-palindrome-birthday-app-1.sahitm1.repl.co)) of the project.
+[Live view](https://palindromebirthday1221.netlify.app/) of the project.
 
 
 
