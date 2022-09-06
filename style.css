@@ -13,7 +13,7 @@ main{
     font-size: 2rem;
 }
 
-input,button{
+input{
     padding: 1rem;
     width: 20rem;
 }
@@ -24,6 +24,16 @@ h1{
     text-align: center;
     color: white;
     border-bottom-left-radius: 1rem; 
+}
+
+#show{
+  padding: 0.5rem 1rem;
+  width: 20rem;
+  background-color: blue;
+  border-radius: 2rem;
+  border: none;
+  color: white;
+  font-weight: bolder;
 }
 
 /**links **/
